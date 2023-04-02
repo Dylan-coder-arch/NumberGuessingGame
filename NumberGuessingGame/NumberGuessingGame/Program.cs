@@ -20,7 +20,7 @@ namespace NumberGuessingGame
                 guess = Convert.ToInt32(Console.ReadLine());
                 if (guess < numberToGuess)
                 {
-                    Console.WriteLine("Please guess a little higher!");
+                    Console.WriteLine("Please guess a little higher!!");
                 } else
                 {
                     Console.WriteLine("Please guess a little lower!");
