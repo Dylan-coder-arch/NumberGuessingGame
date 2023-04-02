@@ -1,0 +1,8 @@
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.SuggestedBindingRedirects.cache
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+E:\ConsoleAppRepo\numberGuessingGame\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
