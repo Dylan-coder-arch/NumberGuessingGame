@@ -13,11 +13,11 @@ namespace NumberGuessingGame
 
             Random rand = new Random();
             int numberToGuess = rand.Next(1, 101);
-            Console.WriteLine("Hello! Welcome! Please enter a number to guess!");
+            Console.WriteLine("Hello! Welcome!");
             int guess = 0;
             while (guess != numberToGuess)
             {
-
+                Console.WriteLine("Guess a number: ");
                 guess = Convert.ToInt32(Console.ReadLine());
 
                 if (guess < numberToGuess)
