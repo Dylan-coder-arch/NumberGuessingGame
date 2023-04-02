@@ -21,7 +21,7 @@ namespace NumberGuessingGame
                 if (guess < numberToGuess)
                 {
                     Console.WriteLine("Please guess a little higher!!");
-                } else
+                } else if (guess > numberToGuess)
                 {
                     Console.WriteLine("Please guess a little lower!");
                 }
