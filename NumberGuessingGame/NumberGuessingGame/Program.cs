@@ -10,6 +10,9 @@ namespace NumberGuessingGame
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello Test");
+
         }
     }
 }
